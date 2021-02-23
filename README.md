@@ -1,4 +1,4 @@
-# :nerd face: My first project in Holberton.
+# 😄 My first project in Holberton.
 
 _Hello this is my first project in Holberton where you learn new things_
 
