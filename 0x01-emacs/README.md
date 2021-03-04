@@ -1,5 +1,5 @@
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png"  alt="Git" width="20" height="20"> - 0x01-emacs.
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png"  alt="Git" width="30" height="30"> - 0x01-emacs.
 
 ### 📖 - Description
 
