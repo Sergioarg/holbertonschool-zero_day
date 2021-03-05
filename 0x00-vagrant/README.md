@@ -18,7 +18,7 @@ Return.
 
 * <a href="https://github.com/Sergioarg/holbertonschool-zero_day" rel="nofollow"> Zero Day</a>
 
-#|Directory
+#|Files
 ---|---
 1|[README.md](./README.md)
 2|[0-hello_ubuntu](./0-hello_ubuntu)
