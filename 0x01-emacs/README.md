@@ -15,7 +15,7 @@ _In this project you will find different basic commands to use in Emacs._
 
 ### :memo:- Files
 
-#|Directory|Function
+#|Files|Function
 ---|---|---
 *|[README.md](./README.md)| Information
 0|[0-opening](./0-opening)| Open a file in Emacs.
