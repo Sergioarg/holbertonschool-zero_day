@@ -15,7 +15,7 @@ _In this project you will find different basic commands to use in Vi_
 
 ### :memo:- Files
 
-#|Directory|Function
+#|Files|Function
 ---|---|---
 *|[README.md](./README.md)| Information
 0|[0-inserting](./0-inserting)| Command to insert text.
