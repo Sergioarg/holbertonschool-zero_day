@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png"  alt="Git" width="30" height="30"> - 0x03-git.
+# <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  alt="Git" width="30" height="30"> - 0x03-git.
 
 ### 📖 - Description
 
